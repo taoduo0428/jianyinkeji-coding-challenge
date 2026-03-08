@@ -1,0 +1,410 @@
+{
+  "id": "7614543781597089055",
+  "desc": "MJ 🤝 Ant #NBA #basketball #MichaelJordan #AnthonyEdwards ",
+  "createTime": "1772899139",
+  "scheduleTime": 0,
+  "video": {
+    "id": "7614543781597089055",
+    "height": 1280,
+    "width": 720,
+    "duration": 38,
+    "ratio": "720p",
+    "cover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8ZfEFtTAogR7DmsQElEAXKA9eEErpSVADBYQV~tplv-tiktokx-dmt-logom:tos-useast8-i-0068-tx2/ogIIpFWWfIM9FeAAaiAA8nQnTYQVjeBIqAoJlE.image?dr=9634&x-expires=1773133200&x-signature=ATLQCJj4NFTwmKiw6cZjXhGnhNc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "originCover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/okqCWRpjwBdCILUIQTJAfaMZWB8GACRfaAexEF~tplv-tiktokx-origin.image?dr=9636&x-expires=1773133200&x-signature=doDrJfc1i0a8vBiTLfiPttofmjk%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "dynamicCover": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/oolmsFXEEQ1QA4rgEYftE3AARrVfpDVAEBVoBC~tplv-tiktokx-origin.image?dr=9636&x-expires=1773133200&x-signature=lHhPcKrTV8Cyr7KvO2G0K2IwGKg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5",
+    "playAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/o4fpfgRVEFDrAYTE1lFtAQ1rEEIVIABmEsgVXA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1870&bt=935&cs=0&ds=3&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=0&rc=ZjtoaWdnZmY3aDk5ZTtlM0BpM3A0dG05cmo3OTMzaTczNEAvMzM2MGBgXl8xLV8wLzVfYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=9504215f4095ec6f6b4bbb64b1929618&tk=tt_chain_token",
+    "downloadAddr": "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/ocPiaQAABqiABxKsECEIEQKgRLWVTQLzLzaV2/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1694&bt=847&cs=0&ds=3&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=0&rc=NGlnOjhpaWRoPDxkaTQ0OUBpM3A0dG05cmo3OTMzaTczNEAwXzZhYi9iNmExMy9fMS5fYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=7edd66b8e00d7902af691f6d1ff256d6&tk=tt_chain_token",
+    "shareCover": [
+      ""
+    ],
+    "reflowCover": "",
+    "bitrate": 957844,
+    "encodedType": "normal",
+    "format": "mp4",
+    "videoQuality": "normal",
+    "encodeUserTag": "",
+    "codecType": "h264",
+    "definition": "720p",
+    "subtitleInfos": "[已移除 79 个字幕数据以减小文件大小]",
+    "zoomCover": {
+      "240": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8ZfEFtTAogR7DmsQElEAXKA9eEErpSVADBYQV~tplv-photomode-zoomcover:240:240.jpeg?dr=9616&x-expires=1773133200&x-signature=3ZTRN5DVoEVt6nlufuGn4JgRvhw%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "480": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8ZfEFtTAogR7DmsQElEAXKA9eEErpSVADBYQV~tplv-photomode-zoomcover:480:480.jpeg?dr=9616&x-expires=1773133200&x-signature=4cK3mS1M6ifofPkSmPy%2FAk2XVwY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "720": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8ZfEFtTAogR7DmsQElEAXKA9eEErpSVADBYQV~tplv-photomode-zoomcover:720:720.jpeg?dr=9616&x-expires=1773133200&x-signature=mXbRyurubU3E7JqTt%2B9%2Ft9oWaYA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1",
+      "960": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-p-0068-tx2/o8ZfEFtTAogR7DmsQElEAXKA9eEErpSVADBYQV~tplv-photomode-zoomcover:960:960.jpeg?dr=9616&x-expires=1773133200&x-signature=GdASdm9H%2F45G0c6gsvKUdXOOEgE%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast5&ftpl=1"
+    },
+    "volumeInfo": {
+      "Loudness": -28.8,
+      "Peak": 0.22387
+    },
+    "bitrateInfo": [
+      {
+        "Bitrate": 957844,
+        "QualityType": 10,
+        "BitrateFPS": 29,
+        "GearName": "normal_720_0",
+        "PlayAddr": {
+          "DataSize": "4631535",
+          "Width": 720,
+          "Height": 1280,
+          "Uri": "v15044gf0000d6m4mg7og65j5qk10m10",
+          "UrlList": [
+            "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/o4fpfgRVEFDrAYTE1lFtAQ1rEEIVIABmEsgVXA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1870&bt=935&cs=0&ds=3&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=0&rc=ZjtoaWdnZmY3aDk5ZTtlM0BpM3A0dG05cmo3OTMzaTczNEAvMzM2MGBgXl8xLV8wLzVfYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=9504215f4095ec6f6b4bbb64b1929618&tk=tt_chain_token",
+            "https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/o4fpfgRVEFDrAYTE1lFtAQ1rEEIVIABmEsgVXA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1870&bt=935&cs=0&ds=3&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=0&rc=ZjtoaWdnZmY3aDk5ZTtlM0BpM3A0dG05cmo3OTMzaTczNEAvMzM2MGBgXl8xLV8wLzVfYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=9504215f4095ec6f6b4bbb64b1929618&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b08b283bb6064eb4accccd3d9f6e682c&is_play_url=1&item_id=7614543781597089055&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjEwZjUwYzdiMTY5MmM5YmUxZTZmODc5YWQ2NjAwZWE4&tk=tt_chain_token&video_id=v15044gf0000d6m4mg7og65j5qk10m10"
+          ],
+          "UrlKey": "v15044gf0000d6m4mg7og65j5qk10m10_h264_720p_957844",
+          "FileHash": "ea899d31598e184153e57e4d9972127e",
+          "FileCs": "c:0-32851-bdd9"
+        },
+        "CodecType": "h264",
+        "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 84.713, \"v960\": 86.15, \"v864\": 87.964, \"v720\": 91.075}, \"ori\": {\"v1080\": 84.713, \"v960\": 86.15, \"v864\": 87.964, \"v720\": 91.075}}}",
+        "Format": "mp4",
+        "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 140055}, {\\\"time\\\": 2, \\\"offset\\\": 196245}, {\\\"time\\\": 3, \\\"offset\\\": 252741}, {\\\"time\\\": 4, \\\"offset\\\": 317890}, {\\\"time\\\": 5, \\\"offset\\\": 386069}, {\\\"time\\\": 10, \\\"offset\\\": 701016}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 84.713, \\\"v960\\\": 86.15, \\\"v864\\\": 87.964, \\\"v720\\\": 91.075}, \\\"ori\\\": {\\\"v1080\\\": 84.713, \\\"v960\\\": 86.15, \\\"v864\\\": 87.964, \\\"v720\\\": 91.075}}}\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"03d260a050ac518c3e2bcdc9d6ee5088\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":64309}"
+      },
+      {
+        "Bitrate": 375079,
+        "QualityType": 25,
+        "BitrateFPS": 29,
+        "GearName": "lowest_540_0",
+        "PlayAddr": {
+          "DataSize": "1813651",
+          "Width": 576,
+          "Height": 1024,
+          "Uri": "v15044gf0000d6m4mg7og65j5qk10m10",
+          "UrlList": [
+            "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c002-tx2/oALgiVSuiBu0oRsQAEABzqaQxBETPKCWQI1La/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=732&bt=366&cs=0&ds=6&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=5&rc=MzNlNDhnOjRlOTg3Mzg1aUBpM3A0dG05cmo3OTMzaTczNEAvNWM0NDJjX2IxYC0yLjJiYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=6f50f38e4bc841ae34a51f23072513a0&tk=tt_chain_token",
+            "https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-ve-0068c002-tx2/oALgiVSuiBu0oRsQAEABzqaQxBETPKCWQI1La/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=732&bt=366&cs=0&ds=6&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=5&rc=MzNlNDhnOjRlOTg3Mzg1aUBpM3A0dG05cmo3OTMzaTczNEAvNWM0NDJjX2IxYC0yLjJiYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=6f50f38e4bc841ae34a51f23072513a0&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=ef52155004c546ebb1f75d7571fb8020&is_play_url=1&item_id=7614543781597089055&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmRjZDQzMTY3ZjcxYmVlNDkzMWRhYzlhZjA0YTc5NDBl&tk=tt_chain_token&video_id=v15044gf0000d6m4mg7og65j5qk10m10"
+          ],
+          "UrlKey": "v15044gf0000d6m4mg7og65j5qk10m10_h264_540p_375079",
+          "FileHash": "79f6d0effb02a49a6c7410a255bc8fea",
+          "FileCs": "c:0-32784-701a"
+        },
+        "CodecType": "h264",
+        "MVMAF": "{\"v2.0\": {\"srv1\": {\"v1080\": 75.268, \"v960\": 78.99, \"v864\": 80.109, \"v720\": 83.702}, \"ori\": {\"v1080\": 66.105, \"v960\": 69.675, \"v864\": 70.445, \"v720\": 73.712}}}",
+        "Format": "mp4",
+        "VideoExtra": "{\"PktOffsetMap\":\"[{\\\"time\\\": 1, \\\"offset\\\": 79706}, {\\\"time\\\": 2, \\\"offset\\\": 99654}, {\\\"time\\\": 3, \\\"offset\\\": 119739}, {\\\"time\\\": 4, \\\"offset\\\": 147409}, {\\\"time\\\": 5, \\\"offset\\\": 174742}, {\\\"time\\\": 10, \\\"offset\\\": 293540}]\",\"mvmaf\":\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 75.268, \\\"v960\\\": 78.99, \\\"v864\\\": 80.109, \\\"v720\\\": 83.702}, \\\"ori\\\": {\\\"v1080\\\": 66.105, \\\"v960\\\": 69.675, \\\"v864\\\": 70.445, \\\"v720\\\": 73.712}}}\",\"ufq\":\"\",\"volume_info_json\":\"\",\"transcode_feature_id\":\"1834aab9e1b0caae9362706a00ff9f52\",\"dec_info\":\"\",\"gearvqm\":\"\",\"audio_bit_rate\":32154}"
+      }
+    ],
+    "size": "4631535",
+    "VQScore": "61.86",
+    "claInfo": {
+      "hasOriginalAudio": true,
+      "enableAutoCaption": true,
+      "captionInfos": [],
+      "noCaptionReason": 1
+    },
+    "videoID": "v15044gf0000d6m4mg7og65j5qk10m10",
+    "PlayAddrStruct": {
+      "DataSize": "4631535",
+      "Width": 720,
+      "Height": 1280,
+      "Uri": "v15044gf0000d6m4mg7og65j5qk10m10",
+      "UrlList": [
+        "https://v16-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/o4fpfgRVEFDrAYTE1lFtAQ1rEEIVIABmEsgVXA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1870&bt=935&cs=0&ds=3&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=0&rc=ZjtoaWdnZmY3aDk5ZTtlM0BpM3A0dG05cmo3OTMzaTczNEAvMzM2MGBgXl8xLV8wLzVfYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=9504215f4095ec6f6b4bbb64b1929618&tk=tt_chain_token",
+        "https://v19-webapp-prime.us.tiktok.com/video/tos/useast8/tos-useast8-pve-0068-tx2/o4fpfgRVEFDrAYTE1lFtAQ1rEEIVIABmEsgVXA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1870&bt=935&cs=0&ds=3&ft=4KJMyMzm8Zmo0_Ny.x4jVXlbdpWrKsd.&mime_type=video_mp4&qs=0&rc=ZjtoaWdnZmY3aDk5ZTtlM0BpM3A0dG05cmo3OTMzaTczNEAvMzM2MGBgXl8xLV8wLzVfYSMuLWgyMmQ0amphLS1kMTJzcw%3D%3D&btag=e00088000&expire=1773135842&l=20260308094324093D36ED373C9A6BC364&ply_type=2&policy=2&signature=9504215f4095ec6f6b4bbb64b1929618&tk=tt_chain_token",
+        "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b08b283bb6064eb4accccd3d9f6e682c&is_play_url=1&item_id=7614543781597089055&line=0&ply_type=2&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjEwZjUwYzdiMTY5MmM5YmUxZTZmODc5YWQ2NjAwZWE4&tk=tt_chain_token&video_id=v15044gf0000d6m4mg7og65j5qk10m10"
+      ],
+      "UrlKey": "v15044gf0000d6m4mg7og65j5qk10m10_h264_720p_957844",
+      "FileHash": "ea899d31598e184153e57e4d9972127e",
+      "FileCs": "c:0-32851-bdd9"
+    }
+  },
+  "author": {
+    "id": "134941634731003904",
+    "shortId": "",
+    "uniqueId": "nba",
+    "nickname": "NBA",
+    "avatarLarger": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/8beb8b849e725f2776a11575b1e7aebf~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=fe6850c9&x-expires=1773133200&x-signature=y0wkJNd5RmpGIiBeATO2hFZeYtc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "avatarMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/8beb8b849e725f2776a11575b1e7aebf~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8760491e&x-expires=1773133200&x-signature=8980UwIjGWImY901ggW2DVDx7gM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast5",
+    "avatarThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/8beb8b849e725f2776a11575b1e7aebf~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=37632ab5&x-expires=1773133200&x-signature=OuMNKdL1OkfpMUGUDGluJHQG9aI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast5",
+    "signature": "Home of NBA hoops on TikTok 🏀",
+    "createTime": 1472544108,
+    "verified": true,
+    "secUid": "MS4wLjABAAAAsny0dcfyctb1_fdyyiu7JOLnblf8y3jd64yTHQLQoc9O5m57HhjT94OdgfSmNgaG",
+    "ftc": false,
+    "relation": 0,
+    "openFavorite": false,
+    "commentSetting": 0,
+    "duetSetting": 0,
+    "stitchSetting": 0,
+    "privateAccount": false,
+    "secret": false,
+    "isADVirtual": false,
+    "roomId": "",
+    "uniqueIdModifyTime": 0,
+    "ttSeller": false,
+    "downloadSetting": 0,
+    "recommendReason": "",
+    "nowInvitationCardUrl": "",
+    "nickNameModifyTime": 0,
+    "isEmbedBanned": false,
+    "canExpPlaylist": false,
+    "suggestAccountBind": false,
+    "UserStoryStatus": 1
+  },
+  "music": {
+    "id": "7614543680199772959",
+    "title": "original sound",
+    "playUrl": "https://v16m.tiktokcdn-us.com/409e4a6c86a0c8adc5aaaa3b99485140/69ad9942/video/tos/useast8/tos-useast8-v-27dcd7-tx2/ogLoeQMMAeACCaCW8ATTIAEZQdxURWQFJNpKeq/?a=1233&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ds=5&ft=GSDrKInz7ThiM-jPXq8Zmo&mime_type=audio_mpeg&qs=13&rc=anE0dG05cms3OTMzaTU8NEBpanE0dG05cms3OTMzaTU8NEBlLWgyMmRramphLS1kMTJzYSNlLWgyMmRramphLS1kMTJzcw%3D%3D&vvpl=1&l=20260308094324093D36ED373C9A6BC364&btag=e00048000",
+    "coverLarge": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/8beb8b849e725f2776a11575b1e7aebf~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=9640&refresh_token=fe6850c9&x-expires=1773133200&x-signature=y0wkJNd5RmpGIiBeATO2hFZeYtc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+    "coverMedium": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/8beb8b849e725f2776a11575b1e7aebf~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8760491e&x-expires=1773133200&x-signature=8980UwIjGWImY901ggW2DVDx7gM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast5",
+    "coverThumb": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/8beb8b849e725f2776a11575b1e7aebf~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=37632ab5&x-expires=1773133200&x-signature=OuMNKdL1OkfpMUGUDGluJHQG9aI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=f20df69d&idc=useast5",
+    "authorName": "NBA",
+    "original": true,
+    "private": false,
+    "duration": 38,
+    "scheduleSearchTime": 0,
+    "collected": false,
+    "preciseDuration": {
+      "preciseDuration": 38.713436,
+      "preciseShootDuration": 38.713436,
+      "preciseAuditionDuration": 38.713436,
+      "preciseVideoDuration": 38.713436
+    },
+    "isCopyrighted": false,
+    "tt2dsp": {
+      "tt_to_dsp_song_infos": []
+    },
+    "is_unlimited_music": false,
+    "is_commerce_music": true,
+    "shoot_duration": 38
+  },
+  "challenges": [
+    {
+      "id": "12744",
+      "title": "NBA",
+      "desc": "The NBA Playoffs are officially here, so practice your form, pull on a jersey, and get ready to celebrate the best in the #NBA.",
+      "profileLarger": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/cfc35d71180eed0d3f68dbc64c919662.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1772982000&x-signature=W%2Fs1BgyAO1Db4vJpLCLfr221Cdg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileMedium": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/cfc35d71180eed0d3f68dbc64c919662.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1772982000&x-signature=W%2Fs1BgyAO1Db4vJpLCLfr221Cdg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileThumb": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/cfc35d71180eed0d3f68dbc64c919662.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1772982000&x-signature=W%2Fs1BgyAO1Db4vJpLCLfr221Cdg%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "7131",
+      "title": "basketball",
+      "desc": "Stay in the loop on all things #basketball",
+      "profileLarger": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/bf2afa9057477ddf8062b7d7f4103695.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1772982000&x-signature=5WBQBc7FzFbn36VeEXRepKW0aEA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileMedium": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/bf2afa9057477ddf8062b7d7f4103695.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1772982000&x-signature=5WBQBc7FzFbn36VeEXRepKW0aEA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "profileThumb": "https://p16-common-sign.tiktokcdn-us.com/musically-maliva-obj/bf2afa9057477ddf8062b7d7f4103695.png~tplv-tiktokx-origin.image?dr=9627&x-expires=1772982000&x-signature=5WBQBc7FzFbn36VeEXRepKW0aEA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "18328",
+      "title": "michaeljordan",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    },
+    {
+      "id": "34439684",
+      "title": "anthonyedwards",
+      "desc": "",
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": ""
+    }
+  ],
+  "stats": {
+    "diggCount": 19000,
+    "shareCount": 334,
+    "commentCount": 200,
+    "playCount": 184100,
+    "collectCount": "1263"
+  },
+  "statsV2": {
+    "diggCount": "19000",
+    "shareCount": "334",
+    "commentCount": "200",
+    "playCount": "184100",
+    "collectCount": "1263",
+    "repostCount": "0"
+  },
+  "warnInfo": [],
+  "originalItem": false,
+  "officalItem": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "start": 10,
+      "end": 14,
+      "hashtagId": "12744",
+      "hashtagName": "nba",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 15,
+      "end": 26,
+      "hashtagId": "7131",
+      "hashtagName": "basketball",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 27,
+      "end": 41,
+      "hashtagId": "18328",
+      "hashtagName": "michaeljordan",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    },
+    {
+      "awemeId": "",
+      "start": 42,
+      "end": 57,
+      "hashtagId": "34439684",
+      "hashtagName": "anthonyedwards",
+      "type": 1,
+      "subType": 0,
+      "isCommerce": false
+    }
+  ],
+  "secret": false,
+  "forFriend": false,
+  "digged": false,
+  "itemCommentStatus": 0,
+  "takeDown": 0,
+  "effectStickers": [],
+  "authorStats": {
+    "followerCount": 25800000,
+    "followingCount": 267,
+    "heart": 953800000,
+    "heartCount": 953800000,
+    "videoCount": 18400,
+    "diggCount": 12200,
+    "friendCount": 0
+  },
+  "privateItem": false,
+  "duetEnabled": true,
+  "stitchEnabled": true,
+  "stickersOnItem": [
+    {
+      "stickerText": [
+        "MICHAEL JORDAN’S MESSAGE TO ANTHONY EDWARDS 🙌"
+      ],
+      "stickerType": 4
+    },
+    {
+      "stickerText": [
+        "MJ 🤝 Ant "
+      ],
+      "stickerType": 9
+    }
+  ],
+  "isAd": false,
+  "shareEnabled": true,
+  "comments": [],
+  "duetDisplay": 0,
+  "stitchDisplay": 0,
+  "indexEnabled": true,
+  "diversificationLabels": [
+    "Sports News",
+    "Sports",
+    "Sport & Outdoor"
+  ],
+  "locationCreated": "US",
+  "suggestedWords": [
+    "anthony edwards michael jordan",
+    "Anthony Edwards",
+    "michael jordan",
+    "mj on anthony edwards",
+    "Basketball NBA",
+    "Michael Jordan Motivation",
+    "edwards",
+    "michael jordan talks about anthony edwards",
+    "michael jordan reaction anthony edwards",
+    "NBA Game"
+  ],
+  "contents": [
+    {
+      "desc": "MJ 🤝 Ant #NBA #basketball #MichaelJordan #AnthonyEdwards ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "start": 10,
+          "end": 14,
+          "hashtagId": "12744",
+          "hashtagName": "nba",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 15,
+          "end": 26,
+          "hashtagId": "7131",
+          "hashtagName": "basketball",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 27,
+          "end": 41,
+          "hashtagId": "18328",
+          "hashtagName": "michaeljordan",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        },
+        {
+          "awemeId": "",
+          "start": 42,
+          "end": 57,
+          "hashtagId": "34439684",
+          "hashtagName": "anthonyedwards",
+          "type": 1,
+          "subType": 0,
+          "isCommerce": false
+        }
+      ]
+    }
+  ],
+  "diversificationId": 10060,
+  "collected": false,
+  "channelTags": [],
+  "item_control": {
+    "can_repost": true
+  },
+  "IsAigc": false,
+  "AIGCDescription": "",
+  "backendSourceEventTracking": "",
+  "CategoryType": 112,
+  "textLanguage": "en",
+  "textTranslatable": true,
+  "authorStatsV2": {
+    "followerCount": "25800000",
+    "followingCount": "267",
+    "heart": "953800000",
+    "heartCount": "953800000",
+    "videoCount": "18400",
+    "diggCount": "12200",
+    "friendCount": "0"
+  },
+  "isReviewing": false,
+  "creatorAIComment": {
+    "hasAITopic": false,
+    "categoryList": [],
+    "eligibleVideo": false,
+    "notEligibleReason": 101
+  }
+}
